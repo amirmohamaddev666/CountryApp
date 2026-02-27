@@ -45,11 +45,7 @@ This project was built to improve skills in:
 
 ## 📸 Preview
 
-*Add a screenshot here (example below):*
-
-```md
-![Preview](Image/preview.png)
-```
+![Preview](Images/preview.png)
 
 ---
 
