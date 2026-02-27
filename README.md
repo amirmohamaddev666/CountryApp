@@ -45,7 +45,7 @@ This project was built to improve skills in:
 
 ## 📸 Preview
 
-![Preview](Images/preview.png)
+![Preview](Image/preview.png)
 
 ---
 
